@@ -40,7 +40,7 @@ Uçuş verileri, farklı bileşenler arasında paylaşım için Redux mağazası
 Verilerin önceden yüklenmesi ve saklanması sayfa geçiş hızını artırır.
 
 # Önizleme
-
+![ezgif com-video-to-gif (5)](https://github.com/zeynepdeli/flightsRadarProject/assets/129688573/97758a0f-f7f8-4955-b609-a36b59fa52a9)
 
 
 
